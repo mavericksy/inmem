@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	inmem "github.com/Kloudimi/inMem"
+	inmem "github.com/mavericksy/inMem"
 
 	"github.com/facebookgo/ensure"
 )
